@@ -5,5 +5,5 @@
 ## jsDelivr
 
 ```url
-https://cdn.jsdelivr.net/gh/CUQIYUAN/redragon@version/path/to/file
+https://cdn.jsdelivr.net/gh/CUQIYUAN/Staticdn@version/path/to/file
 ```
